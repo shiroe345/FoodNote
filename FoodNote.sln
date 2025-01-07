@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "方案項目", "方案項目", "{A95A4FAE-8327-44DE-A762-6301E20A1E6C}"
+	ProjectSection(SolutionItems) = preProject
+		.env = .env
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodNote", "FoodNote\FoodNote.csproj", "{EDC6C108-4BE2-435A-9CAE-85089F11A128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC6C108-4BE2-435A-9CAE-85089F11A128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC6C108-4BE2-435A-9CAE-85089F11A128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC6C108-4BE2-435A-9CAE-85089F11A128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC6C108-4BE2-435A-9CAE-85089F11A128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {057086F8-E6AD-4403-98CA-D44B8EEA59F4}
+	EndGlobalSection
+EndGlobal
