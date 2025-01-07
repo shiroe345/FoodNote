@@ -3,8 +3,7 @@
 ## 1.	環境設置
 -	我們在開發這個應用程式的時候是在windows 上進行開發的，跑程式的時候可能要確保是在 windows 上運行，我們沒有試過 Mac 上運行的測試。
   
--	.env 檔案內有設置 Database 的環境變數，需要依照不同的電腦環境去修改路徑和連接字串。
- ![image](https://github.com/user-attachments/assets/dfb7de1a-25b5-43b4-b66b-21182a7accc7)
+-	.env.example 檔案內有設置 Database 的環境變數，需要依照不同的電腦環境去修改路徑和連接字串。
 
 -	OpenAI api 的部分，這邊也需要自己在電腦上設置自己的環境變數，我們在這邊是使用 windows 環境變數的方式進行 api_key的讀取，環境變數名稱為 “OPENAI_API_KEY”。
   ![image](https://github.com/user-attachments/assets/d12b4285-bf7b-4efc-92c1-ea71cd471b1c)
