@@ -14,13 +14,13 @@
 ---
 ## 2.	操作說明
 -	一開始執行程式會進入User 登入介面，未註冊的使用者需要先註冊，才可以登入，使用者名稱不可重複註冊。
- ![image](https://github.com/user-attachments/assets/0c7b74a0-b072-4f11-8709-da3adbaeaaea)
+  ![image](https://github.com/user-attachments/assets/0c7b74a0-b072-4f11-8709-da3adbaeaaea)
 
--	登入後會進入到主頁面，這邊就可以查詢推薦的餐廳，主頁面又方則是可以將要收藏的餐廳做編輯，並匯出到筆記。而右上方可以切換到筆記頁面。
-![image](https://github.com/user-attachments/assets/c0f51142-ec10-40c1-9df1-e7e3619d2439)
+-	登入後會進入到主頁面，這邊就可以查詢推薦的餐廳，主頁面又方則是可以將要收藏的餐廳做編輯，並匯出到筆記。而右上方可以切換到收藏筆記的頁面。
+  ![image](https://github.com/user-attachments/assets/c0f51142-ec10-40c1-9df1-e7e3619d2439)
 
 -	切換到筆記頁面後，這邊可以查看收藏的餐廳，也可以點選超連結近一步查看詳細資訊。如果有想要刪除的餐廳，也可以在勾選該餐廳後按下Delete 刪除。
- ![image](https://github.com/user-attachments/assets/d099b21a-3033-4fbb-b43f-298ee4ea0482)
+  ![image](https://github.com/user-attachments/assets/d099b21a-3033-4fbb-b43f-298ee4ea0482)
 ---
 新內容開發中...
 
